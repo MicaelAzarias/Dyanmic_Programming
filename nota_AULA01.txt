@@ -1,0 +1,27 @@
+Estruturas de Dados:
+ - Lista
+ - Fila
+ - Pilha
+ - Árvores Binárias
+
+Algoritmos de ordenação:
+ - insersion
+ - selection
+ - bubble
+
+ - mergesort
+ - quicksort
+
+Algoritmos de Busca:
+ - busca sequencial 
+ - busca binária: sempre calcula primeiro o meio, depois segue para a parte principal da sua busca.
+
+Técnicas de Algoritmos:
+ - algoritmos gulosos: escolher um elemento por vez, ele semprevai ficar lá e não vai sair, resolver min e max(problemas de otimização), sim ou não?(problemas de decisão)
+ - programação dinâmica: outra forma de resolver problemas de otimização, fazer troca entre gastar mais estruturas de dados e diminuir o uso do algoritmo
+
+Base (Livros):
+ - Intoduction to Algorithms
+ - Data Structures e Algorithms in python
+
+ 
